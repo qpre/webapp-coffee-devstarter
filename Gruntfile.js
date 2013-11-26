@@ -29,7 +29,7 @@ module.exports = function(grunt) {
           // deploying files into build dir
           {expand: true, flatten: true, src: ['app/assets/style/*'], dest: 'build/assets/style/', filter: 'isFile'},
           {expand: true, flatten: true, src: ['app/assets/img/*'], dest: 'build/assets/img/', filter: 'isFile'},
-          {expand: true, cwd: 'app/bower_components/', src: '**/*', dest: 'build/bower_components/', filter: 'isFile'},
+          {expand: true, cwd: 'app/extern/', src: '**/*', dest: 'build/extern/', filter: 'isFile'},
           {expand: true, flatten: true, src: ['app/*.html'], dest: 'build/'},
         ]
       }

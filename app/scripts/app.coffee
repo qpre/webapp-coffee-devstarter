@@ -1,5 +1,5 @@
 requirejs.config({
-    baseUrl: "bower_components",
+    baseUrl: "extern",
     paths: {
       "app": "../scripts/app",
       'jquery': 'jquery/jquery'
