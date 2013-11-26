@@ -5,10 +5,10 @@ A simple, yet effective dev environnement for webapps being developped in Coffee
 
 Brings you :
 ------------
-- a dev server (using GruntJS)
-- dependencies (using Bower)
-- modular CoffeeScript/JS (using RequireJS)
-- reseted and normalized CSS
+- a dev server (using [Grunt](http://gruntjs.com/))
+- dependencies (using [Bower](http://bower.io/))
+- modular CoffeeScript/JS (using [RequireJS](http://requirejs.org/))
+- reseted and normalized CSS (Thanks to [HTML5BoilerPlate](http://html5boilerplate.com/))
 
 Requirements
 ------------
