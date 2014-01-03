@@ -1,6 +1,6 @@
 {
-  "name": "pfee-etalab",
-  "version": "0.1.0",
+  "name": "Sparrow",
+  "version": "0.0.0",
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-jshint": "~0.6.3",
@@ -12,6 +12,7 @@
     "grunt-open": "~0.2.2",
     "grunt-contrib-connect": "~0.5.0",
     "connect-livereload": "~0.3.0",
-    "grunt-contrib-watch": "~0.5.3"
+    "grunt-contrib-watch": "~0.5.3",
+    "spotify-web": "~0.1.3"
   }
 }
